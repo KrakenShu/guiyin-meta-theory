@@ -1,10 +1,24 @@
-# guiyin-meta-theory
-The fifteen chapters of the Meta‑Theory, the foundational layer of Guiyin Dynamics.
 # Guiyin Meta‑Theory
 
 **Guiyin** (归隐) is a Chinese term coined within this framework. It means “returning to the hidden source”—a process by which all phenomena are understood as projections from a deeper, self‑referential ground.
 
-This repository contains the **fifteen chapters of the Meta‑Theory**, the foundational layer of Guiyin Dynamics. The Meta‑Theory lays the primal seeds from which the full Guiyin System (100 layers) and the Operational Teachings (38 lessons) are derived.
+This repository contains the **fifteen chapters of the Meta‑Theory**, the foundational layer of Guiyin Dynamics.
+
+---
+
+## The Architecture of Guiyin
+
+The entire theoretical system is structured in three layers:
+
+### 1. Meta‑Theory (15 chapters) — *You are here*
+The primal seed. From the quantum sun to the gauge equations, this is where everything begins.
+
+### 2. Guiyin System (currently at layer 42, continuing)
+The complete body. A self‑consistent framework covering geometry, information, thermodynamics, cosmology, and the constants of nature.  
+*(The derivation of 41 and K_H, the gauge unification, the cosmological constant, and the four fundamental interactions all reside here.)*
+
+### 3. Operations (38 lessons)
+The practical guide. How to live, how to see, how to find the tangent direction.
 
 ---
 
@@ -28,19 +42,21 @@ This repository contains the **fifteen chapters of the Meta‑Theory**, the foun
 
 ---
 
-## Relationship with the Guiyin System
+## Where to Start
 
-The constants **41** and **\(K_H\)**—as well as the full derivation of gauge unification, the cosmological constant, and the four fundamental interactions—belong to the **Guiyin System** (100 layers). The Meta‑Theory is the open door; the System is the inner sanctuary.
+- For the **first glimpse** (the π equation and its numerical proof), see:  
+  👉 [**The π Secret**](https://github.com/KrakenShu/the-pi-secret)
 
-For a first glimpse into the Guiyin System, see the companion repository:  
-👉 [**The π Secret**](https://github.com/KrakenShu/the-pi-secret)
+- For the **Meta‑Theory** (you are here)
+
+- For the deeper **Guiyin System** (layers 1–42, with more to come), contact the author.
 
 ---
 
 ## Contact
 
-If you wish to explore further, reach out:  
-**kraken.shu@outlook.com**
+**Kraken Shu**  
+kraken.shu@outlook.com
 
 ---
 
